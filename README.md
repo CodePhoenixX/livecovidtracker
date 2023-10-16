@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Covid API (Using Axios API GET Method)
+
 ![image](https://github.com/CodePhoenixX/livecovidtracker/assets/132158402/69c0904d-740e-4416-afc0-a0fe714e84a3)
 
 
