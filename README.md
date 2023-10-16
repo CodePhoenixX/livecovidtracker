@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/CodePhoenixX/livecovidtracker/assets/132158402/69c0904d-740e-4416-afc0-a0fe714e84a3)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
